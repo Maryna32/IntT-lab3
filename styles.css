@@ -44,7 +44,6 @@ td {
   text-align: center;
   vertical-align: middle;
   border: 1px solid #ddd;
-  display: inline-block;
 }
 
 .chessboard-odd {
